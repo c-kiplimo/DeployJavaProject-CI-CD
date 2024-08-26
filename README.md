@@ -1,4 +1,4 @@
-# MyProjectApp - Step by step End-to-End Deployment process
+# Step by step End-to-End Deployment process
 
 ## Introduction
 The guide in the video is your first help. Again, the Terraform Scripts and manifest files have been provided in this repository. Feel free to edit as you desire.
