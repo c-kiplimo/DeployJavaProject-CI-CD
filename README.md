@@ -215,10 +215,3 @@ vi myapp-service.yml
 ## 19. Intergrate the CI and the CD Jobs on Jenkins
 
 ## 20. Deploy/Test the Application
-
-## Happy you got to this point. Hope it worked!
-
-# Congratulations!
-
-# Merciboi Systems Solutions
-# info@merciboi.com
